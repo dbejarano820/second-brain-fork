@@ -21,10 +21,12 @@ Activates deep focus mode for a specific project with full context loading and t
 ```
 
 Available projects:
-- `grupo-purdy` - Web scraping system for automotive market
-- `dojo-coding` - Educational platform and bootcamps
-- `indie-mind` - Content creation and marketing
-- `ai-agents` - Conversational AI development
+- `project-alpha` - Example project placeholder
+- `project-beta` - Example project placeholder
+- `project-gamma` - Example project placeholder
+- `project-delta` - Example project placeholder
+
+*Note: Replace these with your actual project names*
 
 ## Implementation:
 - Scans project folder in `01_projects/`
